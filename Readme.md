@@ -1,7 +1,7 @@
 # Markov and Hidden Markov Models for Text
 
 
-### Project 12 - AI course (ECSE 526) - McGill - Fall 2016
+### Project 3 - AI course (ECSE 526) - McGill - Fall 2016
 Check project instuctions [here](http://www.cim.mcgill.ca/~jer/courses/ai/assignments/as3.html).
 
 The objective is to:

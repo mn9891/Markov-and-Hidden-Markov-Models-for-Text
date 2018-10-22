@@ -11,4 +11,4 @@ The objective is to:
 
 Python (2.7) was used to complete this assignment.
 In part 1, conditional probability distributions provided in *gram_counts.txt* files were used to __generate sentences__ (or Markov chains).
-In part 2, the first-order hidden Markov model was used to model the joint probability (bigram distribution) used to perform __sentence correction__.
+In part 2, the first-order hidden Markov model was used to model the joint probability (bigram distribution) used to perform __sentence correction__ based on distance between words.

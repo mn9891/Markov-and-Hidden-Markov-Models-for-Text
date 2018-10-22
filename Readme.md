@@ -1,7 +1,7 @@
 # Dynamic Connect-3
 
 
-### Project 12 - AI course (ECSE 526) - McGill - Fall 2016
+### Project 2 - AI course (ECSE 526) - McGill - Fall 2016
 Check project instuctions [here](http://www.cim.mcgill.ca/~jer/courses/ai/as2).
 
 The objective is to:
